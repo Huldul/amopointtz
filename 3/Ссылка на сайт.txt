@@ -1,4 +1,4 @@
-сайт со статистикой на https://site2.limestone.kz/statistics
+сайт со статистикой на https://3ea8-92-47-39-55.ngrok-free.app/statistics
 
 Также к папке приложу сам скрипт
 

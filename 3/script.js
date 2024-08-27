@@ -16,7 +16,7 @@
                 timestamp: new Date().toISOString(),
             };
 
-            const response = await fetch('https://site2.limestone.kz/api/track-visit', {
+            const response = await fetch('https://3ea8-92-47-39-55.ngrok-free.app/api/track-visit', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
