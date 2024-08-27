@@ -1,0 +1,13 @@
+сайт со статистикой на https://site2.limestone.kz/statistics
+
+Также к папке приложу сам скрипт
+
+для фронт скрипта использовал открытые апи
+https://www.ipify.org/
+https://ipapi.co
+
+для получения информации
+
+Для бэка использовал php8.2 + Laravel 10.10
+Для авторизации Laravel Breeze
+Для графиков Chart.js

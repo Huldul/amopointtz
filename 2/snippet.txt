@@ -1,0 +1,4 @@
+$(document).ready(function(){function toggleFields(){var selectedType=$('select[name="type_val"]').val();$('input').closest('p').hide();$('input[name*="'+selectedType+'"]').closest('p').show();}toggleFields();$('select[name="type_val"]').change(function(){toggleFields();});});
+
+
+А это в виде одной строки, чтобы удобнее вставлять в консоль в браузере
